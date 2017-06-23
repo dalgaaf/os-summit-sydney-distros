@@ -393,7 +393,7 @@ Note: RH numbers are RH+Inktank, Canonical 30, last data: [37908, 1369, 706, 28]
 
 <!-- Slide -->
 ##### Commits
-<sup>libvirt/qemu git, 2016/10/20<sup>
+<sup>libvirt/qemu git, 2017/06/24<sup>
 <canvas class="doughnut-reveal" data-chart="doughnut" width="600" height="600">
 <!--
 {
@@ -401,7 +401,7 @@ Note: RH numbers are RH+Inktank, Canonical 30, last data: [37908, 1369, 706, 28]
      "labels": ["Red Hat" , "SUSE" , "Mirantis" , "Canonical"],
      "datasets": [
          {
-             "data": [36781, 2698, 6, 75],
+             "data": [39455, 2770, 6, 80],
 	     "backgroundColor": [
 	     	"rgba(233,52,66,.7)",
 		"rgba(125,194,70,.6)",
