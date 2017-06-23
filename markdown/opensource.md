@@ -60,31 +60,32 @@ of the distributions
 
 <!-- Slide -->
 ##### Commits to OpenStack Core
+<sup>Cinder, Glance, Keystone, Neutron, Nova, Swift</sup>
 <canvas data-chart="line">
 <!--
 {
  "data" : {
-     "labels": ["G", "H", "I", "J", "K", "L", "M", "N", "O"],
+     "labels": ["G", "H", "I", "J", "K", "L", "M", "N", "O", "P"],
      "datasets": [
          {
              "label": "Canonical",
 	     "backgroundColor":"rgba(221,72,20,.9)",
-             "data": [116, 120, 44, 20, 25, 8, 9, 8, 0]
+             "data": [116, 120, 44, 20, 25, 8, 9, 9, 6, 6]
          },
          {
              "label": "SUSE",
 	     "backgroundColor":"rgba(125,194,70,.9)",
-             "data": [49, 116, 109, 91, 36, 43, 93, 80, 32]
+             "data": [49, 116, 109, 91, 36, 43, 98, 83, 74, 76]
          },
          {
              "label": "Mirantis",
 	     "backgroundColor":"rgba(0,0,0,.7)",
-             "data": [59, 370, 181, 250, 539, 677, 665, 726, 70]
+             "data": [59, 370, 181, 250, 539, 677, 678, 778, 384, 288]
          },
          {
              "label": "Red Hat",
 	     "backgroundColor":"rgba(233,52,66,.7)",
-             "data": [731, 623, 852, 965, 1231, 1290, 1040, 1010, 145]
+             "data": [731, 623, 852, 965, 1231, 1290, 1057, 1098, 821, 721]
          }
      ]
  },
@@ -100,36 +101,38 @@ of the distributions
 }
 -->
 </canvas>
+<br>
+<sup>Source: stackalytics.com , Analysis: git.io/vQYT0 </sup>
 
 
 <!-- Slide -->
 ##### Commits to OpenStack Optional
-<sup>Barbican, Ceilometer, Designate, Heat, Horizon, Ironic, Magnum, Manila, Murano, Sahara, Trove</sup>
+<sup>Aodh, Barbican, Ceilometer, Designate, Gnocchi, Heat, Horizon, Ironic, Magnum, Manila, Mistral, <br> Monasca, Murano, Panko, Rally, Sahara, Tempest, Trove, +(os-client, oslo, security, documentation)</sup>
 <canvas data-chart="line">
 <!--
 {
  "data" : {
-     "labels": ["G", "H", "I", "J", "K", "L", "M", "N", "O"],
+     "labels": ["G", "H", "I", "J", "K", "L", "M", "N", "O", "P"],
      "datasets": [
          {
              "label": "Canonical",
 	     "backgroundColor":"rgba(221,72,20,.9)",
-             "data": [27, 7, 2, 3, 6, 2, 2, 2, 0]
+             "data": [38, 52, 8, 6, 19, 6, 7, 4, 10, 2]
          },
          {
              "label": "SUSE",
 	     "backgroundColor":"rgba(125,194,70,.9)",
-             "data": [10, 85, 86, 139, 78, 42, 63, 90, 37]
+             "data": [16, 175, 849, 635, 345, 372, 296, 221, 319, 181]
          },
          {
              "label": "Red Hat",
 	     "backgroundColor":"rgba(233,52,66,.7)",
-             "data": [789, 1116, 1115, 1103, 1419, 1341, 1080, 1067, 120]
+             "data": [1091, 1567, 1707, 1451, 2232, 1938, 1561, 1660, 1291, 801]
          },
          {
              "label": "Mirantis",
 	     "backgroundColor":"rgba(0,0,0,.7)",
-             "data": [197, 966, 682, 900, 1554, 1478, 1132, 1283, 109]
+             "data": [200, 1075, 904, 1048, 2008, 2273, 1846, 1776, 828, 373]
          }
      ]
  },
@@ -145,6 +148,8 @@ of the distributions
 }
 -->
 </canvas>
+<br>
+<sup>Source: stackalytics.com , Analysis: git.io/vQYT0 </sup>
 
 
 <!-- Slide -->
@@ -153,27 +158,27 @@ of the distributions
 <!--
 {
  "data" : {
-     "labels": ["G", "H", "I", "J", "K", "L", "M", "N", "O"],
+     "labels": ["G", "H", "I", "J", "K", "L", "M", "N", "O", "P"],
      "datasets": [
          {
              "label": "Canonical",
 	     "backgroundColor":"rgba(221,72,20,.9)",
-             "data": [859, 190, 61, 54, 57, 28, 8, 20, 20]
+             "data": [931, 196, 70, 68, 72, 31, 8, 23, 48, 15]
          },
          {
              "label": "SUSE",
 	     "backgroundColor":"rgba(125,194,70,.9)",
-             "data": [50, 58, 197, 595, 600, 642, 813, 578, 605]
+             "data": [61, 562, 2563, 3818, 3893, 3147, 3328, 2208, 1866, 2440]
          },
          {
              "label": "Red Hat",
 	     "backgroundColor":"rgba(233,52,66,.7)",
-             "data": [6745, 13300, 15682, 16498, 19244, 17709, 15831, 16987, 17602]
+             "data": [7949, 15812, 19172, 19699, 24352, 21246, 18165, 19592, 13342, 10659]
          },
          {
              "label": "Mirantis",
 	     "backgroundColor":"rgba(0,0,0,.7)",
-             "data": [137, 5722, 9640, 14154, 22735, 21273, 19853, 19609, 20380]
+             "data": [137, 6018, 11185, 16267, 27943, 29539, 27452, 24168, 10829, 7028]
          }
      ]
  },
@@ -189,6 +194,8 @@ of the distributions
 }
 -->
 </canvas>
+<br>
+<sup>Source: stackalytics.com , Analysis: git.io/vQYT0 </sup>
 
 
 <!-- Slide -->
@@ -198,27 +205,27 @@ of the distributions
 <!--
 {
  "data" : {
-     "labels": ["G", "H", "I", "J", "K", "L", "M", "N", "O"],
+     "labels": ["G", "H", "I", "J", "K", "L", "M", "N", "O", "P"],
      "datasets": [
          {
              "label": "Canonical",
 	     "backgroundColor":"rgba(221,72,20,.7)",
-             "data": [106, 34, 54, 17, 19, 6, 26, 14, 13]
+             "data": [99, 35, 48, 17, 19, 9, 30, 12, 3, 30]
          },
          {
              "label": "SUSE",
 	     "backgroundColor":"rgba(125,194,70,.6)",
-             "data": [106, 62, 68, 96, 57, 48, 48, 28, 30]
+             "data": [94, 115, 143, 204, 145, 86, 47, 42, 40, 109]
          },
          {
              "label": "Red Hat",
 	     "backgroundColor":"rgba(233,52,66,.7)",
-             "data": [79, 65, 53, 53, 57, 54, 63, 79, 79]
+             "data": [78, 65, 60, 56, 59, 54, 64, 74, 73, 72]
          },
          {
              "label": "Mirantis",
 	     "backgroundColor":"rgba(0,0,0,.7)",
-             "data": [88, 84, 61, 89, 90, 74, 69, 73, 73]
+             "data": [89, 87, 63, 87, 84, 73, 70, 74, 83, 81]
          }
      ]
  },
@@ -229,55 +236,21 @@ of the distributions
 	"labels": {
 	    "fontSize": 16
 	}
+     },
+     "scales": {
+     	"yAxes": [{
+        	"ticks": {
+                    "min": 0,
+                    "max": 210
+                }
+            }]
      }
  }
 }
 -->
 </canvas>
-
-
-<!-- Slide -->
-##### Commits to Documentation
-<canvas data-chart="line">
-<!--
-{
- "data" : {
-     "labels": ["G", "H", "I", "J", "K", "L", "M", "N", "O"],
-     "datasets": [
-         {
-             "label": "Canonical",
-	     "backgroundColor":"rgba(221,72,20,.7)",
-             "data": [2, 0, 3, 0, 1, 0, 0, 1, 0]
-         },
-         {
-             "label": "Mirantis",
-	     "backgroundColor":"rgba(0,0,0,.7)",
-             "data": [0, 0, 41, 12, 120, 74, 80, 32, 10]
-         },
-         {
-             "label": "Red Hat",
-	     "backgroundColor":"rgba(233,52,66,.7)",
-             "data": [8, 4, 346, 70, 44, 30, 34, 35, 2]
-         },
-         {
-             "label": "SUSE",
-	     "backgroundColor":"rgba(125,194,70,.6)",
-             "data": [2, 47, 730, 420, 249, 284, 206, 87, 27]
-         }
-     ]
- },
- "options": { 
-     "responsive": "true",
-     "legend": {
-     	"position": "bottom",
-	"labels": {
-	    "fontSize": 16
-	}
-     }
- }
-}
--->
-</canvas>
+<br>
+<sup>Source: stackalytics.com , Analysis: git.io/vQYT0 </sup>
 
 
 <!-- Slide -->
@@ -285,7 +258,7 @@ of the distributions
 
 
 ##### Commits
-<sup>ceph.git, 2016/10/20<sup>
+<sup>source: metrics.ceph.com, ceph.git, 2017/16/23<sup>
 <canvas class="doughnut-reveal" data-chart="doughnut" width="600" height="600">
 <!--
 {
@@ -293,7 +266,7 @@ of the distributions
      "labels": ["Red Hat" , "SUSE" , "Mirantis" , "Canonical"],
      "datasets": [
          {
-             "data": [37908, 1369, 706, 28],
+             "data": [36021, 1822, 746, 30],
 	     "backgroundColor": [
 	     	"rgba(233,52,66,.7)",
 		"rgba(125,194,70,.6)",
@@ -317,7 +290,7 @@ of the distributions
 -->
 </canvas>
 
-Note: RH numbers are RH+Inktank, Canonical 28, SUSE numbers fixed between DTAG and SUSE
+Note: RH numbers are RH+Inktank, Canonical 30, last data: [37908, 1369, 706, 28]
 
 
 <!-- Slide -->
@@ -376,7 +349,7 @@ Note: RH numbers are RH+Inktank, Canonical 28, SUSE numbers fixed between DTAG a
 <!--
 {
  "data" : {
-     "labels": ["v3.0.100" , "v3.1.10" , "v3.2.82" , "v3.4.112" , "v3.5.7" , "v3.6.11" , "v3.7.10" , "v3.8.13" , "v3.9.11" , "v3.10.103" , "v3.11.10" , "v3.12.64" , "v3.13.11" , "v3.14.79" , "v3.15.10" , "v3.16.37" , "v3.17.8" , "v3.18.43" , "v3.19.8" , "v4.0.9" , "v4.1.34" , "v4.2.8" , "v4.3.6" , "v4.4.19" , "v4.5.7" , "v4.6.7" , "v4.7.8" , "v4.8.2i"],
+     "labels": ["v3.0.100" , "v3.1.10" , "v3.2.82" , "v3.4.112" , "v3.5.7" , "v3.6.11" , "v3.7.10" , "v3.8.13" , "v3.9.11" , "v3.10.103" , "v3.11.10" , "v3.12.64" , "v3.13.11" , "v3.14.79" , "v3.15.10" , "v3.16.37" , "v3.17.8" , "v3.18.43" , "v3.19.8" , "v4.0.9" , "v4.1.34" , "v4.2.8" , "v4.3.6" , "v4.4.19" , "v4.5.7" , "v4.6.7" , "v4.7.8" , "v4.8.2"],
      "datasets": [
          {
              "label": "Mirantis",
