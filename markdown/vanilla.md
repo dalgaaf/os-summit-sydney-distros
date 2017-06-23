@@ -87,17 +87,21 @@ But what about
 
 
 <!-- Slide -->
-May an option if you use
-
-### Mirantis 
-`Fuel`
-
-or 
+`Juju` may an option if you use
 
 ### Canonical
-`Juju`
 
 <span class="fragment"> `96%` of the code is from one `company` </span>
+
+
+<!-- Slide -->
+`Fuel` had the same issue!
+
+`96%` of the code is from 
+
+### Mirantis
+
+<span class="fragment"> but: <br><br> `Fuel` development was stopped by Mirantis</span>
 
 
 <!-- Slide -->
