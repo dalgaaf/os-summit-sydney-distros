@@ -30,12 +30,14 @@ not maintaining an own
 
 
 <!-- Slide -->
-#### Controller nodes
+### Controller nodes
 Ubuntu 16.04 LTS
 
 <br>
-#### Compute nodes <!-- .element class="fragment" data-fragment-index="1"-->
+### Compute nodes <!-- .element class="fragment" data-fragment-index="1"-->
 Ubuntu 16.04 LTS <!-- .element class="fragment" data-fragment-index="1"-->
+
+(no longer support for SLES/RHEL/Oracle) <!-- .element class="fragment" data-fragment-index="1"-->
 
 
 <!-- Slide -->
@@ -45,15 +47,13 @@ Ubuntu 16.04 LTS <!-- .element class="fragment" data-fragment-index="1"-->
 ### Hypervisor
 KVM
 
-### SDN
-OpenContrail
-
 
 <!-- Slide -->
 Deployment
 
 via
 ### MCP DriveTrain
+SaltStack based + Jenkins/Gerrit
 
 
 <!-- Slide -->
@@ -63,21 +63,27 @@ All Core Services plus
 
 <table>
 <tr>
+    <td><img src="images/openstack/aodh.svg"></td>
     <td><img src="images/openstack/barbican-notsupported.svg"></td>
     <td><img src="images/openstack/ceilometer.svg"></td>
     <td><img src="images/openstack/designate.svg"></td>
-    <td><img src="images/openstack/fuel-notsupported.svg"></td>
 </tr>
 <tr>
+    <td><img src="images/openstack/gnocchi-notsupported.svg"></td>
     <td><img src="images/openstack/heat.svg"></td>
     <td><img src="images/openstack/horizon.svg"></td>
     <td><img src="images/openstack/ironic.svg"></td>
-    <td><img src="images/openstack/magnum-notsupported.svg"></td>
 </tr>
 <tr>
+    <td><img src="images/openstack/magnum-notsupported.svg"></td>
     <td><img src="images/openstack/manila-notsupported.svg"></td>
     <td><img src="images/openstack/mistral-notsupported.svg"></td>
+    <td><img src="images/openstack/monasca-notsupported.svg"></td>
+</tr>
+<tr>
     <td><img src="images/openstack/murano.svg"></td>
+    <td><img src="images/openstack/panko-notsupported.svg"></td>
+    <td><img src="images/openstack/rally-notsupported.svg"></td>
     <td><img src="images/openstack/sahara.svg"></td>
 </tr>
 <tr>
@@ -151,11 +157,10 @@ and <!-- .element class="fragment" data-fragment-index="1"-->
 ### Ubuntu <!-- .element class="fragment" data-fragment-index="1"-->
 
 
-
 <!-- Slide -->
 Deployment via
 ### Decapod, part of MCP
-
+ceph-ansible + OpenAttic
 
 
 <!-- Slide -->
