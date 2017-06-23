@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="images/mirantis-logo.svg" data-background-size="auto 90%" -->
+<!-- .slide: data-background-image="images/mirantis-logo-2color-rgb-transparent.png" data-background-size="auto 90%" -->
 
 
 <!-- Slide -->
@@ -117,7 +117,6 @@ and
 ### Mirantis DriveTrain
 and
 ### Mirantis Kubernetes
-
 
 
 <!-- Slide -->
