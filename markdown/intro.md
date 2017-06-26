@@ -3,7 +3,10 @@ or
 ## Distributions
 How do they differentiate ?
 
-[`danny.al-gaaf@bisect.de`](mailto:danny.al-gaaf@bisect.de)
+<br>
+[`Danny Al-Gaaf`](mailto:danny.al-gaaf@bisect.de)
+
+Deutsche Telekom Technik GmbH
 
 
 <!-- Slide -->
