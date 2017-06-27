@@ -105,7 +105,7 @@ Additionally recommended
 
 <!-- Slide -->
 ### Support
-betwen
+between
 ###### 1 year 
 (phase 2 support, like r11) 
 
@@ -157,7 +157,7 @@ or
 
 <!-- Slide -->
 ###### CephFS
-Tech preview (Support planed for 3.0)
+Tech preview (Support planned for 3.0)
 ###### NFS
 via Object Gateway
 ###### iSCSI

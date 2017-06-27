@@ -162,7 +162,7 @@ Deployment via
 or
 ### Crowbar
 or
-### ceph-deloy
+### ceph-deploy
 
 
 <!-- Slide -->

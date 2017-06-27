@@ -3,7 +3,7 @@
 
 
 <!-- Slide -->
-Former Core Services: Higly `mature` and widely adopted.
+Former Core Services: Highly `mature` and widely adopted.
 
 <table>
 <tr>
@@ -174,7 +174,7 @@ Leaves one question:
 
 What is the 
 
-### prefrered 
+### prefered 
 
 ## Distribution
 
