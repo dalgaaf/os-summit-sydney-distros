@@ -155,6 +155,9 @@ with
 
 `OpenATTIC`
 
+<br>
+Next: SES5, Luminous, Q3/Q4 2017 <!-- .element class="fragment" -->
+
 
 <!-- Slide -->
 Deployment via
@@ -166,10 +169,10 @@ or
 
 
 <!-- Slide -->
-###### CephFS
-###### iSCSI
-###### RGW Multi-site Replication
-###### AArch64
+###### CephFS 
+###### iSCSI <!-- .element class="fragment" -->
+###### RGW Multi-site Replication <!-- .element class="fragment" -->
+###### AArch64 <!-- .element class="fragment" -->
 Note: SES4 - CephFS Use Cases and NFS-Ganesha tech preview
 
 

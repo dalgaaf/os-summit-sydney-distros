@@ -77,7 +77,7 @@ What does the
 
 ### OpenStack Community?
 
-`Ansible, Puppet, Chef`.
+`Ansible, Puppet, Chef`. <!-- .element class="fragment" -->
 
 
 <!-- Slide -->
@@ -160,6 +160,10 @@ Select a
 to provide 
 #### packages, updates, CI/CD
 (e.g. B1 Systems)
+
+
+<!-- Slide -->
+### or
 
 
 <!-- Slide -->

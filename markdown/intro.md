@@ -6,7 +6,9 @@ How do they differentiate ?
 <br>
 [`Danny Al-Gaaf`](mailto:danny.al-gaaf@bisect.de)
 
-Deutsche Telekom Technik GmbH
+Deutsche Telekom AG
+
+Note: <img src="images/T_Logo_3c_p_DE.png" style="width:10%;">
 
 
 <!-- Slide -->

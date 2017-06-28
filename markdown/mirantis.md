@@ -112,11 +112,11 @@ MCP 1.2 (Ocata, Q3-Q4/2017)
 <!-- Slide -->
 Additionally included
 
-### Mirantis Stacklight
+### Stacklight
 and
-### Mirantis DriveTrain
+### DriveTrain
 and
-### Mirantis Kubernetes
+### Kubernetes
 
 
 <!-- Slide -->
@@ -158,7 +158,7 @@ and <!-- .element class="fragment" data-fragment-index="1"-->
 
 <!-- Slide -->
 Deployment via
-### Decapod, part of MCP
+### Decapod
 ceph-ansible + OpenAttic
 
 
@@ -173,7 +173,5 @@ supported
 <!-- Slide -->
 ## Pricing
 Subscription
-
-based on:
 
 per machine
