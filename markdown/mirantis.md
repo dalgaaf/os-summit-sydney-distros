@@ -113,16 +113,16 @@ MCP 1.2 (Ocata, Q3-Q4/2017)
 Additionally included
 
 ### Stacklight
-and
 ### DriveTrain
-and
 ### Kubernetes
+### OpenContrail
 
 
 <!-- Slide -->
 ### Support
 Each release for
 ###### 3 years
+(1y full, +2y limited)
 
 
 <!-- Slide -->
@@ -151,22 +151,23 @@ Part of
 
 based on <!-- .element class="fragment" data-fragment-index="1"-->
 
-### Jewel <!-- .element class="fragment" data-fragment-index="1"-->
+### Luminous <!-- .element class="fragment" data-fragment-index="1"-->
 and <!-- .element class="fragment" data-fragment-index="1"-->
 ### Ubuntu <!-- .element class="fragment" data-fragment-index="1"-->
 
 
 <!-- Slide -->
 Deployment via
-### Decapod
-ceph-ansible + OpenAttic
+### SaltStack
+### OpenAttic
+(Decapod/ansible discontinued)
 
 
 <!-- Slide -->
-Only
 ### RBD
-and
 ### RadosGW
+and
+### BlueStore
 supported
 
 
