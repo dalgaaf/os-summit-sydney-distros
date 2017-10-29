@@ -1,7 +1,7 @@
 ## Vanilla
-or 
+vs 
 ## Distributions
-How do they differentiate ?
+*Update on Distinctions, Status, and Statistics*
 
 <br>
 [`Danny Al-Gaaf`](mailto:danny.al-gaaf@bisect.de)
@@ -82,6 +82,7 @@ SLAs <!-- .element class="fragment" -->
 <!-- Slide -->
 But also
 ### Cost & Efficency <!-- .element class="fragment" -->
+and may even
 ### Legal topics <!-- .element class="fragment" -->
 
 
