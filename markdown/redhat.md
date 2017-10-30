@@ -23,7 +23,7 @@ based on
 3.10-based
 
 <br>
-### Hypervisor <!-- .element class="fragment" data-fragment-index="1"-->
+### Virtualization <!-- .element class="fragment" data-fragment-index="1"-->
 KVM<!-- .element class="fragment" data-fragment-index="1"-->
 
 ESX (vCenter)<!-- .element class="fragment" data-fragment-index="1"-->
@@ -90,17 +90,17 @@ New downstream version with
 
 ###### every upstream release
 
-Next:
-
-Pike
+<br>
+Next: Pike
 
 
 <!-- Slide -->
 Additionally recommended
 
-### OSP director
+### CloudForms
+(bundled)
 ### Satellite
-### CloudForms (bundled)
+(optional)
 
 
 <!-- Slide -->
@@ -138,12 +138,17 @@ special SLAs
 
 
 <!-- Slide -->
-###### Red Hat Ceph Storage 2.3
+###### Red Hat Ceph Storage 2.4
 
 based on
 
 ### Jewel
-RHEL 7.3 or Ubuntu 16.04
+RHEL 7.4 or Ubuntu 16.04
+
+<br>
+Next: 3.0 with Luminous
+
+Note: GA release for 3.0 was planed for mid/end of October ... GA date slipped
 
 
 <!-- Slide -->
@@ -154,14 +159,19 @@ or
 or
 ### manually
 
+Note: with 3.0 default will be Ansible, RHSC is EOL with 2.4
+
 
 <!-- Slide -->
-###### CephFS
-Tech preview (Support planned for 3.0)
-###### NFS
-via Object Gateway
-###### iSCSI
-Tech preview
+### Features 
+
+CephFS (Tech preview)
+
+NFS (via Object Gateway)
+
+iSCSI (Tech preview)
+
+Note: CephFS support planed for 3.0 <br> BlueStore will be still Tech Preview
 
 
 <!-- Slide -->
