@@ -161,11 +161,13 @@ Deployment via
 
 
 <!-- Slide -->
-### RBD
-### RadosGW
-and
-### BlueStore
-supported
+### Features
+
+RBD
+
+RadosGW
+
+BlueStore
 
 
 <!-- Slide -->
