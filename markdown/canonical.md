@@ -11,7 +11,7 @@
 ### OpenStack 
 with
 
-<img src="images/openstack/openstack-ocata-release-logo-480.png" style="width:15%;">
+<img src="images/openstack/openstack-pike-logo.png" style="width:15%;">
 
 based on
 
@@ -23,7 +23,7 @@ based on
 4.4-based
 
 <br> 
-### Hypervisor <!-- .element class="fragment" data-fragment-index="1"-->
+### Virtualization <!-- .element class="fragment" data-fragment-index="1"-->
 KVM <!-- .element class="fragment" data-fragment-index="1"-->
 
 Hyper-V <!-- .element class="fragment" data-fragment-index="1"-->
@@ -49,7 +49,7 @@ While probably most
 
 using Ubuntu, make use of <!-- .element class="fragment" data-fragment-index="1"-->
 
-`DevStack, Puppet, Ansible, Chef` <!-- .element class="fragment" data-fragment-index="1"-->
+`DevStack, Puppet, Ansible, SaltStack, Chef` <!-- .element class="fragment" data-fragment-index="1"-->
 
 the enterprise version uses<!-- .element class="fragment" data-fragment-index="2"-->
 
@@ -63,13 +63,13 @@ All Core Services plus
 
 <table>
 <tr>
-    <td><img src="images/openstack/aodh-notsupported.svg"></td>
+    <td><img src="images/openstack/aodh-techpreview.svg"></td>
     <td><img src="images/openstack/barbican-techpreview.svg"></td>
     <td><img src="images/openstack/ceilometer.svg"></td>
-    <td><img src="images/openstack/designate-techpreview.svg"></td>
+    <td><img src="images/openstack/designate.svg"></td>
 </tr>
 <tr>
-    <td><img src="images/openstack/gnocchi-notsupported.svg"></td>
+    <td><img src="images/openstack/gnocchi-techpreview.svg"></td>
     <td><img src="images/openstack/heat-techpreview.svg"></td>
     <td><img src="images/openstack/horizon.svg"></td>
     <td><img src="images/openstack/ironic-techpreview.svg"></td>
@@ -148,17 +148,25 @@ support for business hours, 24x7, managed
 
 based on 
 
-### Jewel
+### Luminous
 
 with
 
-`Ubuntu Performance Dashboard` and `OpenAttic`
+`Ceph Dashboard` and `OpenAttic`
+
+Note: Ubuntu Performance Dashboard retired
 
 
 <!-- Slide -->
-###### CephFS
-###### iSCSI
-no Juju charm
+### Features
+
+CephFS
+
+iSCSI
+
+NFS Gateway
+
+Erasure coding (no Juju charm)
 
 
 <!-- Slide -->
@@ -180,11 +188,8 @@ Note: Yearly subscriptions?
 
 <!-- Slide -->
 ### Landscape
-and <!-- .element class="fragment" data-fragment-index="1"-->
-### Ubuntu Performance Dashboard <!-- .element class="fragment" data-fragment-index="1"-->
-(for Ceph) <!-- .element class="fragment" data-fragment-index="1"-->
 
-have a <!-- .element class="fragment" data-fragment-index="2"-->
+has a <!-- .element class="fragment" data-fragment-index="2"-->
 
 `non Open Source license` <!-- .element class="fragment" data-fragment-index="2"-->
 
