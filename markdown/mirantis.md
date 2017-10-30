@@ -12,10 +12,6 @@ with
 
 <img src="images/openstack/openstack-ocata-release-logo-480.png" style="width:15%;">
 
-based on
-
-`Ubuntu 16.04 LTS`
-
 
 <!-- Slide -->
 Mirantis is the
@@ -30,12 +26,10 @@ not maintaining an own
 
 
 <!-- Slide -->
-### Controller nodes
-Ubuntu 16.04 LTS
+### Nodes
+Compute and Controller
 
-<br>
-### Compute nodes <!-- .element class="fragment" data-fragment-index="1"-->
-Ubuntu 16.04 LTS <!-- .element class="fragment" data-fragment-index="1"-->
+Ubuntu 16.04 LTS
 
 (no longer support for SLES/RHEL/Oracle) <!-- .element class="fragment" data-fragment-index="1"-->
 
@@ -44,8 +38,10 @@ Ubuntu 16.04 LTS <!-- .element class="fragment" data-fragment-index="1"-->
 ### Kernel
 4.4-based
 
-### Hypervisor
+### Virtualization
 KVM
+
+Kubernetes/Docker
 
 
 <!-- Slide -->
@@ -97,16 +93,18 @@ All Core Services plus
 
 <!-- Slide -->
 ### Life Cycle
-New downstream version with
+New downstream version with <!-- .element class="fragment" data-fragment-index="1"-->
 
-###### every upstream release
+###### every upstream release <!-- .element class="fragment" data-fragment-index="1"-->
 
-within 1-6 months
+within 1-6 months, depending on CI/CD <!-- .element class="fragment" data-fragment-index="1"-->
 
 <br>
-Next:
+Next: MCP 1.2 end of Q4/2017 <!-- .element class="fragment" data-fragment-index="2"-->
 
-MCP 1.2 (Ocata, Q3-Q4/2017)
+(supports Mitaka, Ocata, and Pike) <!-- .element class="fragment" data-fragment-index="2"-->
+
+Note: multiple OpenStack releases per MCP version, release == tagged and tested git commit instead of specific release
 
 
 <!-- Slide -->
@@ -117,6 +115,7 @@ Additionally included
 ### Kubernetes
 ### OpenContrail
 
+Note: OpenContrail 3.2.3 and Kubernetes 1.7
 
 <!-- Slide -->
 ### Support
@@ -128,7 +127,7 @@ Each release for
 <!-- Slide -->
 ### Pricing
 
-per machine (Ubuntu)
+per machine
 
 <br>
 ##### depending on:
@@ -152,8 +151,6 @@ Part of
 based on <!-- .element class="fragment" data-fragment-index="1"-->
 
 ### Luminous <!-- .element class="fragment" data-fragment-index="1"-->
-and <!-- .element class="fragment" data-fragment-index="1"-->
-### Ubuntu <!-- .element class="fragment" data-fragment-index="1"-->
 
 
 <!-- Slide -->
