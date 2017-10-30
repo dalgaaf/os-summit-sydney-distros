@@ -24,7 +24,7 @@ based on
 4.4-based
 
 <br> 
-### Hypervisor <!-- .element class="fragment" data-fragment-index="1"-->
+### Virtualization <!-- .element class="fragment" data-fragment-index="1"-->
 KVM, Xen<!-- .element class="fragment" data-fragment-index="1"--> 
 
 VMWare vSphere<!-- .element class="fragment" data-fragment-index="1"-->
@@ -33,19 +33,15 @@ IBM z/VM <!-- .element class="fragment" data-fragment-index="1"-->
 
 Kubernetes Docker via Magnum <!-- .element class="fragment" data-fragment-index="1"-->
 
-Note: Kernel API/ABI compatibility
-
 
 <!-- Slide -->
 Deployment
  
 ## Crowbar 
-(`v4.0`)
-
 and 
-
 ## Chef
-(`v10`)
+
+Note: Crowbar v4.0, Chef v10
 
 
 <!-- Slide -->
@@ -63,7 +59,7 @@ All Core Services plus
     <td><img src="images/openstack/gnocchi-techpreview.svg"></td>
     <td><img src="images/openstack/heat.svg"></td>
     <td><img src="images/openstack/horizon.svg"></td>
-    <td><img src="images/openstack/ironic-techpreview.svg"></td>
+    <td><img src="images/openstack/ironic.svg"></td>
 </tr>
 <tr>
     <td><img src="images/openstack/magnum.svg"></td>
@@ -85,7 +81,7 @@ All Core Services plus
 </tr>
 </table>
 
-Note: Monasca will be soon available
+Note: Designate is "package only"
 
 
 <!-- Slide -->
@@ -96,7 +92,7 @@ New downstream version with
 
 Next: 
  
-Pike release
+Pike release (Q1/18)
 
 Note: every 2nd may no issue in enterprise setups, you don't switch that easily production.
 
@@ -113,9 +109,16 @@ Additionally recommended
 <!-- Slide -->
 ### Support
 
-at least
-###### 27 months
-after GA
+Cloud 7: <!-- .element class="fragment" data-fragment-index="1"-->
+###### 27 months <!-- .element class="fragment" data-fragment-index="1"-->
+after GA <!-- .element class="fragment" data-fragment-index="1"-->
+
+<br>
+From 8 on: 36 months <!-- .element class="fragment" data-fragment-index="2"-->
+
+(aligned with SLES12-SP3) <!-- .element class="fragment" data-fragment-index="2"-->
+
+Note: SUSE OpenStack Cloud 8 will be aligned to SLES12 SP3 and should have a full three year lifecycle as explained by PM at SUSECon.
 
 
 <!-- Slide -->
@@ -145,35 +148,37 @@ Note: like `scheduled standby`, Support engineer (ASE/PSE/DSE)
 
 
 <!-- Slide -->
-###### SUSE Enterprise Storage 4
+###### SUSE Enterprise Storage 5
 
 based on
 
-### Jewel
+### Luminous
 
 with 
 
 `OpenATTIC`
 
-<br>
-Next: SES5, Luminous, Q3/Q4 2017 <!-- .element class="fragment" -->
+based on SLES12-SP3
 
 
 <!-- Slide -->
 Deployment via
 ### DeepSea/Salt
-or
-### Crowbar
-or
-### ceph-deploy
 
 
 <!-- Slide -->
-###### CephFS 
-###### iSCSI <!-- .element class="fragment" -->
-###### RGW Multi-site Replication <!-- .element class="fragment" -->
-###### AArch64 <!-- .element class="fragment" -->
-Note: SES4 - CephFS Use Cases and NFS-Ganesha tech preview
+### Features
+BlueStore <!-- .element class="fragment" -->
+
+Data compression <!-- .element class="fragment" -->
+
+CephFS Multi MDS <!-- .element class="fragment" -->
+
+iSCSI <!-- .element class="fragment" -->
+
+NFS Ganesha/S3 <!-- .element class="fragment" -->
+
+CIFS Samba (Tech Preview) <!-- .element class="fragment" -->
 
 
 <!-- Slide -->
