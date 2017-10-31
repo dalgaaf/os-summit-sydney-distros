@@ -189,3 +189,18 @@ pre-production subscriptions <!-- .element class="fragment" data-fragment-index=
 
 Note: unlimited Pre-Production subscription for fix price under 5000 Dollar.
 
+
+<!-- Slide -->
+# 3
+## Container Platform
+
+
+<!-- Slide -->
+
+###### Red Hat OpenShift
+
+Kubernetes
+
+Docker (OS)
+
+Atomic and RHEL OS

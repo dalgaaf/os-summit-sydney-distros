@@ -175,3 +175,18 @@ BlueStore
 Subscription
 
 per machine
+
+
+<!-- Slide -->
+# 3
+## Container Platform
+
+
+<!-- Slide -->
+###### MCP CaaS
+
+Kubernetes
+
+Docker
+
+Note: may also Mesos?

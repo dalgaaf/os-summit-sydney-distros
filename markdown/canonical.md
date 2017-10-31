@@ -183,6 +183,25 @@ Note: Yearly subscriptions?
 
 <!-- Slide -->
 # 3
+## Container Platform
+
+
+<!-- Slide -->
+###### Ubuntu Containers
+
+LXD
+
+Kubernetes
+
+Docker (CS)
+
+Juju
+
+Note: Docker CS supported backed by Docker Inc. Level 3 support
+
+
+<!-- Slide -->
+# 4
 ### Potential Issues
 
 
@@ -195,7 +214,7 @@ has a <!-- .element class="fragment" data-fragment-index="2"-->
 
 
 <!-- Slide -->
-## Kernel
+### Kernel
 At least <!-- .element class="fragment" data-fragment-index="1"-->
 
 controversial <!-- .element class="fragment" data-fragment-index="1"-->
@@ -205,3 +224,12 @@ integration of <!-- .element class="fragment" data-fragment-index="1"-->
 ## ZFS <!-- .element class="fragment" data-fragment-index="2"-->
 in 16.04 <!-- .element class="fragment" data-fragment-index="2"-->
 
+
+<!-- Slide -->
+### LXD
+
+Not offered by the other distros.
+
+Potential vendor lock-in.
+
+Note: AFAIK not even Mirantis offers LXD

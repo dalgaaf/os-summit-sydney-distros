@@ -197,6 +197,24 @@ Note: release every 6 months, support for N and N-1, longer cycles on request
 
 <!-- Slide -->
 # 3
+## Container Platform
+
+
+<!-- Slide -->
+
+###### SUSE CaaS Platform
+
+Kubernetes
+
+Docker (OS)
+
+SUSE MicroOS
+
+Note: Storage SES, NFS, hostpath
+
+
+<!-- Slide -->
+# 4
 ## More
 
 
