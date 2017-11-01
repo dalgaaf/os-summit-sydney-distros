@@ -219,8 +219,30 @@ Note: Storage SES, NFS, hostpath
 
 
 <!-- Slide -->
-You should know:
+SUSE aquired 
 
+### HPE's cloud assets
+
+OpenStack
+
+Cloud Foundry
+
+Stackato 
+
+
+<!-- Slide -->
+### HPE Helion
+and
+### SUSE Cloud 8
+
+will share the same code base
+
+
+<!-- Slide -->
+You should also know:
+
+
+<!-- Slide -->
 ##SUSE
 
 Is the only distro
