@@ -34,7 +34,7 @@ you know
 
 
 <!-- Slide -->
-If you have time and ressources:
+If you have time and resources:
 
 ### evaluation
 ###### PoC
@@ -43,15 +43,83 @@ Before you stuck with one!
 
 
 <!-- Slide -->
+Are there any other
+
+helpful 
+
+### Indicators ?
+
+
+<!-- Slide -->
+What about 
+
+### Community Engagement ?
+
+
+<!-- Slide -->
+<table width="100%">
+<colgroup> 
+     <col width="300">
+     <col width="150"> 
+     <col width="150"> 
+     <col width="150"> 
+     <col width="150"> 
+</colgroup>
+<tr>
+    <td></td>
+    <td><img src="images/redhat-logo.svg" style="height:45px;width:auto;"></td>
+    <td><img src="images/suse-logo.svg" style="height:50px;width:auto;"></td>
+    <td><img src="images/mirantis-logo-2color-rgb-transparent.png" style="height:50px;width:auto;"></td>
+    <td><img src="images/ubuntu-logo.svg" style="height:50px;width:auto;"></td>
+</tr>
+<tr>
+    <td align="right"><img src="images/openstack-cloud-software-vertical-large.png" style="height:80px;width:auto;"></td>
+    <td><b>Platin</b></td>
+    <td><b>Platin</b</td>
+    <td>Gold</td>
+    <td>Gold</td>
+</tr>
+<tr>
+    <td align="right"><img src="images/logo_linux_foundation.png" style="height:50px;width:auto;"></td>
+    <td>Silver</td>
+    <td><b>Gold</b></td>
+    <td>Silver</td>
+    <td>Silver</td>
+</tr>
+<tr>
+    <td align="right"><img src="images/logo_oci.png" style="height:50px;width:auto;"></td>
+    <td><b>Member</b></td>
+    <td><b>Member</b></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td align="right"><img src="images/logo_CNCF_Alternate_Pantone.png" style="height:45px;width:auto;"></td>
+    <td><b>Platin</b></td>
+    <td>Gold</td>
+    <td>Silver</td>
+    <td>Silver</td>
+</tr>
+<tr>
+    <td align="right"><img src="images/logo_opnfv_wp.png" style="height:45px;width:auto;"></td>
+    <td><b>Platin</b></td>
+    <td><b>Platin</b></td>
+    <td>Silver</td>
+    <td>Silver</td>
+</tr>
+</table>
+
+Note: CNCF covers Kubernetes, Containerd
+
+
+<!-- Slide -->
 Another may helpful indicator:
 
-### Some statistics
+###### Statistics
 
-on recent project
+on project
 
-##Contributions
-
-of the distributions
+### Contributions
 
 
 <!-- Slide -->
@@ -519,3 +587,35 @@ Note: RH numbers are RH+Inktank, Canonical 30, last data: [37908, 1369, 706, 28]
 -->
 </canvas>
 
+
+<!-- Slide -->
+How is their
+
+### Market Share ?
+
+Are there useful and reliable numbers?
+
+Note: This is a tough one! Couldn't find any reliable numbers!
+
+
+<!-- Slide -->
+What about
+
+`thecloudmarket.com` ?
+
+Not helpful!
+
+Only Amazon EC2 images.
+
+
+<!-- Slide -->
+What about
+
+### OpenStack
+### User Survey?
+
+Some issues, but let see ...
+
+
+<!-- Slide -->
+TODO: add some numbers from surveys ...
