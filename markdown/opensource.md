@@ -618,4 +618,158 @@ Some issues, but let see ...
 
 
 <!-- Slide -->
-TODO: add some numbers from surveys ...
+##### Which vendor’s products power your cloud?
+<canvas data-chart="horizontalBar">
+<!--
+{
+ "data" : {
+     "labels": ["April", "November"],
+     "datasets": [
+         {
+             "label": "Red Hat",
+	     "backgroundColor":"rgba(233,52,66,.7)",
+             "data": [28, 24]
+         },
+         {
+             "label": "Canonical",
+	     "backgroundColor":"rgba(221,72,20,.7)",
+             "data": [25, 16]
+         },
+         {
+             "label": "Mirantis",
+	     "backgroundColor":"rgba(0,0,0,.7)",
+             "data": [18, 8]
+         },
+         {
+             "label": "SUSE",
+	     "backgroundColor":"rgba(125,194,70,.6)",
+             "data": [8, 4]
+         },
+         {
+             "label": "HPE",
+	     "backgroundColor":"rgba(63,127,191,0.72)",
+             "data": [14, 9]
+         }
+     ]
+ },
+ "options": {
+     "animateScale": "true",
+     "responsive": "true",
+     "legend": {
+     	"position": "bottom",
+	"labels": {
+	    "fontSize": 16
+	}
+     }
+ }
+}
+-->
+</canvas>
+<br>
+<sup>Source: OpenStack User Survey April/November 2017 </sup>
+
+
+<!-- Slide -->
+##### Which operating system runs your cloud?
+<canvas data-chart="horizontalBar">
+<!--
+{
+ "data" : {
+     "labels": ["April", "November"],
+     "datasets": [
+         {
+             "label": "Ubuntu Server",
+	     "backgroundColor":"rgba(221,72,20,.7)",
+             "data": [52, 38]
+         },
+         {
+             "label": "CentOS",
+	     "backgroundColor":"rgba(0,0,0,.7)",
+             "data": [26, 31]
+         },
+         {
+             "label": "RHEL",
+	     "backgroundColor":"rgba(233,52,66,.7)",
+             "data": [13, 18]
+         },
+         {
+             "label": "SUSE SLES",
+	     "backgroundColor":"rgba(125,194,70,.6)",
+             "data": [3, 6]
+         }
+     ]
+ },
+ "options": {
+     "animateScale": "true",
+     "responsive": "true",
+     "legend": {
+     	"position": "bottom",
+	"labels": {
+	    "fontSize": 16
+	}
+     }
+ }
+}
+-->
+</canvas>
+<br>
+<sup>Source: OpenStack User Survey April/November 2017 </sup>
+
+Note: Ubuntu is probably Canonical+Mirantis+Community developers
+
+
+<!-- Slide -->
+##### Which tool for deploy/config OS Cloud?
+<canvas data-chart="horizontalBar">
+<!--
+{
+ "data" : {
+     "labels": ["April", "November"],
+     "datasets": [
+         {
+             "label": "Ansible",
+	     "backgroundColor":"rgba(233,52,66,.7)",
+             "data": [45, 38]
+         },
+         {
+             "label": "Puppet",
+	     "backgroundColor":"rgba(0,0,0,.7)",
+             "data": [28, 20]
+         },
+         {
+             "label": "Chef",
+	     "backgroundColor":"rgba(125,194,70,.6)",
+             "data": [14, 14]
+         },
+         {
+             "label": "Juju",
+	     "backgroundColor":"rgba(221,72,20,.7)",
+             "data": [9, 7]
+         },
+         {
+             "label": "SaltStack",
+	     "backgroundColor":"rgba(63,127,191,0.72)",
+             "data": [6, 7]
+         }
+     ]
+ },
+ "options": {
+     "animateScale": "true",
+     "responsive": "true",
+     "legend": {
+     	"position": "bottom",
+	"labels": {
+	    "fontSize": 16
+	}
+     }
+ }
+}
+-->
+</canvas>
+<br>
+<sup>Source: OpenStack User Survey April/November 2017 </sup>
+
+Note: Ubuntu is probably Canonical+Mirantis+Community developers
+
+
+
