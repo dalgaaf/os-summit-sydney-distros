@@ -21,13 +21,14 @@ in this context?
 ##Upstream
 without <!-- .element class="fragment" -->
 ###privat changes <!-- .element class="fragment" -->
-from VCS or released packages <!-- .element class="fragment" -->
+
+Note: OpenStack from VCS or released packages
 
 
 <!-- Slide -->
 Sounds
 ## great
-### right?
+right?
 
 
 <!-- Slide -->
@@ -50,11 +51,11 @@ like
 
 <!-- Slide -->
 Which software do you need ?
-### OpenStack <!-- .element class="fragment" -->
-### Storage <!-- .element class="fragment" -->
-Ceph <!-- .element class="fragment" -->
-### Base OS <!-- .element class="fragment" -->
-Kernel/Hypervisor/Container/... <!-- .element class="fragment" -->
+## OpenStack <!-- .element class="fragment" -->
+## Storage <!-- .element class="fragment" -->
+## Base OS <!-- .element class="fragment" -->
+
+Note: Storage: Ceph, BaseOS: Kernel/Hypervisor/Container/...
 
 
 <!-- Slide -->
@@ -64,25 +65,23 @@ OpenStack projects <!-- .element class="fragment" data-fragment-index="1"-->
 
 and <!-- .element class="fragment" data-fragment-index="2"-->
 ### features <!-- .element class="fragment" data-fragment-index="3"--> 
-CephFS, SDN, Hypervisor, API versions ... <!-- .element class="fragment" data-fragment-index="3"-->
+CephFS, SDN, Hypervisor/Container, API versions ... <!-- .element class="fragment" data-fragment-index="3"-->
 
 
 <!-- Slide -->
 Operational requirements
-### CI/CD <!-- .element class="fragment" -->
 ### Automation <!-- .element class="fragment" -->
+### CI/CD <!-- .element class="fragment" -->
 ### Management <!-- .element class="fragment" -->
-Release Cycles, Update/Upgrade <!-- .element class="fragment" -->
-
-SLAs <!-- .element class="fragment" -->
-
 ### Support <!-- .element class="fragment" -->
+
+Note: Management: Release Cycles, Update/Upgrade, SLAs
 
 
 <!-- Slide -->
 But also
 ### Cost & Efficency <!-- .element class="fragment" -->
-and may even
+and may even <!-- .element class="fragment" -->
 ### Legal topics <!-- .element class="fragment" -->
 
 
@@ -115,6 +114,10 @@ and adapt `processes`.
 
 
 <!-- Slide -->
+### This is the `HARD` part!
+
+
+<!-- Slide -->
 # 3
 ### Community
 
@@ -138,9 +141,9 @@ Participate in the
 
 Report your bugs and missing features! <!-- .element class="fragment" -->
 
-Write blueprints! <!-- .element class="fragment" -->
+Blueprints! <!-- .element class="fragment" -->
 
-Give feedback! <!-- .element class="fragment" -->
+Feedback! <!-- .element class="fragment" -->
 
 Review! <!-- .element class="fragment" -->
 

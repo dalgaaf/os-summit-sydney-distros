@@ -68,7 +68,7 @@ What about Automation?
 Sure! <!-- .element class="fragment" data-fragment-index="2"-->
 
 <span class="fragment" data-fragment-index="3">
-If you prefer the `epic fail`!
+If you prefer an `epic fail`!
 </span>
 
 
@@ -77,13 +77,13 @@ What does the
 
 ### OpenStack Community?
 
-`Ansible, Puppet, Chef`. <!-- .element class="fragment" -->
+`Ansible, Puppet, Chef, SaltStack`. <!-- .element class="fragment" -->
 
 
 <!-- Slide -->
 But what about 
 
-`Fuel and Juju`?
+`Juju`?
 
 
 <!-- Slide -->
@@ -92,16 +92,6 @@ But what about
 ### Canonical
 
 <span class="fragment"> `96%` of the code is from one `company` </span>
-
-
-<!-- Slide -->
-`Fuel` had the same issue!
-
-`96%` of the code is from 
-
-### Mirantis
-
-<span class="fragment"> but: <br><br> `Fuel` development was stopped by Mirantis</span>
 
 
 <!-- Slide -->
@@ -126,11 +116,8 @@ Note: e.g. upgrade or skip of releases
 Main `features`:
 
 ### RBD
-block storage
 ### RadosGW
-Swift/S3 object store
 ### CephFS
-Distributed filesystem
 
 
 <!-- Slide -->
@@ -140,10 +127,6 @@ What about Automation?
 
 <br>
 Then choose from <!-- .element class="fragment" data-fragment-index="2"-->
-
-`ceph-deploy` <!-- .element class="fragment" data-fragment-index="2"-->
-
-or <!-- .element class="fragment" data-fragment-index="2"-->
 
 `Ansible, Puppet, Chef, SaltStack` <!-- .element class="fragment" data-fragment-index="2"-->
 
@@ -158,8 +141,7 @@ What are the
 Select a
 ### partner
 to provide 
-#### packages, updates, CI/CD
-(e.g. B1 Systems)
+###### Packages, Updates, CI/CD
 
 
 <!-- Slide -->
