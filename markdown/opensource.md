@@ -771,5 +771,3 @@ Note: Ubuntu is probably Canonical+Mirantis+Community developers
 
 Note: Ubuntu is probably Canonical+Mirantis+Community developers
 
-
-
